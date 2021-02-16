@@ -1,31 +1,30 @@
 [
 	{
-		"title": "Board Master",
-		"slug": "board-master",
-		"description": "Head to head competitive typing test featuring words per minute and accuracy scoring, built on Express.js and Socket.io",
+		"title": "Portfolio site",
+		"slug": "portfolio_site",
+		"description": "personal site",
 		"writing": {
 			"process": "",
 			"processSub": "",
 			"conclusion": [
-				"Expanded my knowledge of OOP trechniques and architecture",
-				"Developed extensive experience with Socket.io API ",
-				"Became more knowledgable with real-time client to server communication"
+				"Learn full time process of design, development and deploy",
+				"Deep learning GatsbyJS, TypeScript"
 			]
 		},
 		"stack": [
 			"React",
-			"Express.js",
-			"Socket.io",
+			"Redux",
+			"Gatsby",
 			"SASS"
 		],
 		"tags": [
 			"React",
-			"Express.js",
-			"Socket.io",
+			"Redux",
+			"TypeScript",
 			"2021"
 		],
-		"source": "https://github.com/capriok/Board-Master",
-		"demo": "https://board-master.kylecaprio.dev",
+		"source": "https://github.com/gilpavpost/portfolio",
+		"demo": "https://gilpavpost.github.io/gilpav.github.io/",
 		"thumb": "./images/BMASTER-HOME.jpg",
 		"images": [
 			"./images/BMASTER-SHOWCASE.jpg",
@@ -36,8 +35,8 @@
 			"./images/BMASTER-RESULT.jpg"
 		],
 		"resources": [
-			"https://socket.io",
-			"https://devcenter.heroku.com"
+			"https://gatsby.org",
+			"https://github.com"
 		]
 	},
 	{
