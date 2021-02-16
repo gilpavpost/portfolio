@@ -24,7 +24,7 @@
 			"2021"
 		],
 		"source": "https://github.com/gilpavpost/portfolio",
-		"demo": "https://gilpavpost.github.io/gilpav.github.io/",
+		"demo": "https://gilpav.netlify.app/",
 		"thumb": "./images/BMASTER-HOME.jpg",
 		"images": [
 			"./images/BMASTER-SHOWCASE.jpg",

@@ -1,44 +1,44 @@
 [
 	{
-		"title": "SQLifting",
-		"slug": "sqlifting",
-		"description": "Exercise smarter with a personalized exercise and workout plan building application",
+		"title": "Portfolio Site",
+		"slug": "portfolsite",
+		"description": "Personal portfolio based on React and Gatsby",
 		"tags": [
 			"React",
-			"Express.js",
-			"MySQL",
-			"2021"
-		],
-		"source": "https://github.com/capriok/SQLifting",
-		"demo": "https://sqlifting.kylecaprio.dev",
-		"thumb": "./images/SQLIFTING-WORKOUT.jpg"
-	},
-	{
-		"title": "Board Master",
-		"slug": "board-master",
-		"description": "Head to head competitive typing test featuring words per minute and accuracy scoring, built on Express.js and Socket.io",
-		"tags": [
-			"React",
-			"Express.js",
-			"Socket.io",
-			"2021"
-		],
-		"source": "https://github.com/capriok/Board-Master",
-		"demo": "https://board-master.kylecaprio.dev",
-		"thumb": "./images/BMASTER-HOME.jpg"
-	},
-	{
-		"title": "Godspeed",
-		"slug": "godspeed",
-		"description": "React component and toolkit library built for quick use and customizability",
-		"tags": [
-			"Styled-Components",
-			"NPM",
 			"Gatsby",
+			"Netlify",
+			"2021"
+		],
+		"source": "https://github.com/gilpavpost/portfolio",
+		"demo": "https://gilpav.netlify.app/",
+		"thumb": "./images/PORT-PREVIEW.jpg"
+	},
+	{
+		"title": "Culturnii Gorod news portal",
+		"slug": "cultgrad",
+		"description": "Absolutely ambitious and unique author's design from the customer for the site. Yes, it really exists !",
+		"tags": [
+			"React",
+			"CosmicJS",
+			"Styled components",
+			"2021"
+		],
+		"source": "https://github.com/gilpavpost/cult_grad",
+		"demo": "https://пресса-онлайн.рф",
+		"thumb": "./images/CULT-PREVIEW.jpg"
+	},
+	{
+		"title": "Beauty Point",
+		"slug": "bpttask",
+		"description": "Test task from the company Omega-R, great in its design, and great for improving frontend skills",
+		"tags": [
+			"TypeScript",
+			"Redux",
+			"React",
 			"2020"
 		],
-		"source": "https://github.com/capriok/Godspeed",
-		"demo": "https://godspeed.kylecaprio.dev",
-		"thumb": "./images/GODSPEED-HOME.jpg"
+		"source": "https://github.com/gilpavpost/omegaR_frontend_tt",
+		"demo": "#",
+		"thumb": "./images/BP-PREVIEW.jpg"
 	}
 ]
